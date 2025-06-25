@@ -144,32 +144,40 @@ Our flagship agent demonstrates real-world value:
 
 ## 🛣 Roadmap
 
-### Phase 1: Platform Foundation (Current → Q3 2025)
-- [x] Rebalancr agent (proven, award-winning)
-- [x] Allora integration (predictions, sentiment)
-- [x] Kuru DEX execution (orderbook trading)
-- [ ] Multi-agent framework architecture
-- [ ] Agent marketplace UI
+This roadmap outlines our plan to develop AgentVault into a premier multi-agent platform. 
 
-### Phase 2: Agent Ecosystem (Q1-Q2 2025)
-- [ ] Momentum trading agent
-- [ ] Yield farming/LP optimization agent
-- [ ] Portfolio coordinator agent
-- [ ] Cross-agent learning system
-- [ ] Advanced risk management
+### Phase 1: MVP (Next 3 Weeks)
+- **Goal**: Solidify the core platform and submit a strong application to the accelerator.
+- **Deliverables**:
+    - [x] Rebalancr agent (proven, award-winning)
+    - [x] Allora integration (predictions, sentiment)
+    - [x] Kuru DEX execution (orderbook trading)
+    - [ ] Finalize multi-agent framework architecture
+    - [ ] Launch Agent Marketplace UI v1 (agent selection & onboarding)
+    - [ ] Secure first alpha testers for feedback
 
-### Phase 3: Multi-Chain Expansion (Q2-Q3 2025)
-- [ ] Meteora DLMM integration (Solana)
-- [ ] Additional DEX integrations
-- [ ] Cross-chain execution
-- [ ] Agent performance analytics
-- [ ] Community agent development
+### Phase 2:
+- **Goal**: rapidly expand agent diversity and iterate based on feedback from early users.
+- **Deliverables**:
+    - [ ] Launch Momentum Trading Agent
+    - [ ] Develop initial Yield Farming Agent
+    - [ ] Implement v1 of Portfolio Coordinator for cross-agent risk management
+    - [ ] Refine UI/UX based on user feedback
 
-### Phase 4: Autonomous Ecosystem (Q3+ 2025)
-- [ ] Fully autonomous agent teams
-- [ ] Community-created agents
-- [ ] Agent-to-agent trading
-- [ ] Decentralized governance
+### Phase 3: 
+- **Goal**: Enhance platform robustness, demonstrate traction, and prepare for a wider launch.
+- **Deliverables**:
+    - [ ] Advanced agent performance analytics dashboard
+    - [ ] Begin integration with a second execution venue (e.g., Meteora on Solana)
+    - [ ] Prepare a compelling Demo
+    - [ ] Grow alpha tester user base
+
+### Future Vision (Q4 2025+)
+- [ ] Public launch of the AgentVault platform
+- [ ] Multi-chain execution and agent deployment
+- [ ] Community agent development SDK
+- [ ] Fully autonomous, collaborative agent teams
+- [ ] Progressive decentralization of governance
 
 ---
 
@@ -191,7 +199,7 @@ Our flagship agent demonstrates real-world value:
 
 ```bash
 # Clone the repository
-git clone https://github.com/degencodebeast/agentvault.git
+git clone https://github.com/agent-vault-org/agentvault.git
 cd agentvault
 
 # Install dependencies
@@ -213,7 +221,6 @@ poetry run python -m agentvault.agents.rebalancr
 ## 🏆 Recognition
 
 - **🥈 2nd Place**: Monad Hackathon 2024 - Allora Track
-
 
 ---
 
